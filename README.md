@@ -15,6 +15,8 @@ Verify your account and claim your sk_live key.
 
 Paste your sk_live key into the main.py file (Line #5)
 
+The format is CNUMBER|MM|YYYY|CVV
+
 ## ✨ Contributors
 [P3E](https://github.com/p3e)
 
